@@ -17,10 +17,23 @@ This project focuses on building a well-structured, accessible, and organized mu
 - Project descriptions and demonstrated skills
 - Short-term, medium-term, and long-term goals
 - Organized project folder structure
+- Page-specific `<title>` elements
+- Page-specific meta descriptions
+- Consistent `<head>` metadata across all pages
+- Responsive viewport configuration
 
 ## Technologies
 
 - HTML5
+
+## Metadata
+
+Each page includes a consistent and appropriate `<head>` structure containing:
+
+- UTF-8 character encoding
+- Responsive viewport metadata
+- A unique page title
+- A page-specific meta description
 
 ## Tools
 
